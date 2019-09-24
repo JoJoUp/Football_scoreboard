@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clicker</string>
+    <string name="txt_scopeteam1">0</string>
+    <string name="txt_scopeteam2">0</string>
+    <string name="btn_team1">гол</string>
+    <string name="btn_team2">Гол</string>
+    <string name="btn_resetScope">Обнуличть счет</string>
+</resources>
